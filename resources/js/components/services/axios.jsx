@@ -1,5 +1,5 @@
-const urlBase = "http://localhost:8000/api/admin"
-
+//const urlBase = "http://localhost:8000/api/admin"
+const urlBase = "https://hostpokemon.herokuapp.com//api/admin"
 import axios from "axios";
 const http = {};
 
